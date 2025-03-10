@@ -1,6 +1,7 @@
 from setuptools import setup, find_packages
 
 ## pip3 install torch torchvision torchaudio
+## For cuda 12.4.1, pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 ## pip3 install -U "jax[cuda12]"
 
 setup(
@@ -17,7 +18,7 @@ setup(
         "equinox",  # Equinox for JAX
         "scikit-learn",
         "pandas",
-        "ipykernel",
+        "ipykernel", ## Also need nb_conda_kernels in conda/mamba 
         "babel",
         "black",
         "pytest",
