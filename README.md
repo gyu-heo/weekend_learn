@@ -9,8 +9,7 @@
 
 0. (Optional) Some default notations in RL
 1. Policy Gradient: REINFORCE
-1.1. (Optional) Bandit rabbithole
-2. Policy Gradient
+2. Actor-Critic: TRPO and PPO
 
 </details>
 
@@ -20,8 +19,7 @@
     
 1. ELBO and EM
 2. KL divergence rabbithole
-3. VAE and whatnot
-n. ELBO and World Model
+
 
 </details>
 
@@ -37,7 +35,7 @@ n. ELBO and World Model
 <details>
     <summary>Click to Expand</summary> 
     
-1. PCA as an optimization problem
+1. TBD
 
 </details>
 
@@ -49,7 +47,14 @@ n. ELBO and World Model
 
 </details>
 
+## **How to Use**
+For some reason, this repository is mostly written in markdown and python test scripts. For markdown, I simply suggest:
 
+1. Clone the repository.
+2. Open the markdown file in your favorite markdown viewer (I use VSCode, shamelessly).
+    - For VSCode, "Ctrl+Shift+v" in markdown file will open the markdown preview. Preview will automatically render all the HTML and LaTex code of the markdown file.
+
+I may find a better way to present these notes in the future. For now, this is messy but works for me.
 
 ## **What is this?**  
 This is my personal scratchpad for playing with fundamental concepts across various topics. A dense mind needs a tangible place to write, code, and experiment with ideas—so here we are.  
