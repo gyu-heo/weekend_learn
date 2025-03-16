@@ -7,9 +7,9 @@
 <details>
     <summary>Click to Expand</summary> 
 
-0. (Optional) Some default notations in RL
-1. Policy Gradient: REINFORCE
-2. Actor-Critic: TRPO and PPO
+0. [(Optional) Some default notations in RL](playground/basic%20RL/0.%20(Optional)%20Some%20default%20notations%20in%20RL.md)
+[1. Policy Gradient: REINFORCE](playground/basic_RL/1.%20Policy%20Gradient%20-%20REINFORCE.md)
+[2. Actor-Critic: GAE, TRPO, and PPO](playground/basic_RL/2.%20Actor-Critic:%20GAE,%20TRPO,%20and%20PPO.md)
 
 </details>
 
@@ -17,8 +17,8 @@
 <details>
     <summary>Click to Expand</summary> 
     
-1. ELBO and EM
-2. KL divergence rabbithole
+1. [ELBO and EM](playground/ELBO%20and%20VI/1.%20ELBO%20and%20EM.md)
+2. [KL divergence rabbithole](playground/ELBO%20and%20VI/2.%20KL%20divergence%20rabbithole.md)
 
 
 </details>
@@ -27,7 +27,7 @@
 <details>
     <summary>Click to Expand</summary> 
     
-1. Perturbation
+1. [Perturbation](playground/Learning%20Rule/1.%20Perturbation.md)
 
 </details>
 
@@ -35,7 +35,7 @@
 <details>
     <summary>Click to Expand</summary> 
     
-1. TBD
+1. [Newton's method and Adaptive Optimizers](playground/Optimization/1.%20Newton%27s%20method%20and%20Adaptive%20Optimizers.md)
 
 </details>
 
